@@ -15,10 +15,6 @@
 <li>rows:       205</li>
 <li>attributes: 26</li>
 
-
-### Table of Contents:
-
-
 ### Software/Library Requirements:
 <ul><li> JupyterLab</li>
 <li>pandas</li>
